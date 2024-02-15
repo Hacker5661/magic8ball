@@ -1,0 +1,12 @@
+body {
+    background-color: aquamarine;
+}
+
+button {
+    width: 200px;
+    height: 100px;
+    background-color: greenyellow;
+    border-radius: 100px;
+    font-size: 35px;
+    font-family: cursive;
+}
